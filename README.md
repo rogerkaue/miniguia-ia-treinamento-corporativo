@@ -94,3 +94,18 @@ Resultado esperado:
 - redução de afastamentos;
 - melhora no clima organizacional;
 - maior produtividade.
+
+## 🎧 Podcast Gerado por (IA) - NotebookLM
+
+Este podcast foi criado com apoio de Inteligência Artificial como complemento ao miniguia, com o objetivo de apresentar de forma acessível os principais conceitos sobre riscos psicossociais, NR-1 e aplicações da IA no contexto corporativo.
+
+[Ouvir Podcast](https://drive.google.com/file/d/1532XFCcj7LII_E6zfFIbJ_kW7zmEUswN/view?usp=sharing)
+
+
+## 🎥 Vídeo Explicativo (IA) - NotebookLM
+
+Este vídeo foi desenvolvido com apoio de Inteligência Artificial para apresentar, de forma visual e aplicada, os principais conceitos relacionados à NR-1, riscos psicossociais e o uso da IA no contexto corporativo.
+
+O objetivo é complementar o miniguia com uma abordagem mais didática e acessível.
+
+[Assista ao vídeo](https://drive.google.com/file/d/1MsTNH7NXfUvFDz4whsY-HiMooM2-dmxf/view?usp=sharing)
